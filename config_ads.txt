@@ -1,0 +1,9 @@
+{
+  "banner_id": "ca-app-pub-4345728927696445/5241570071",
+  "native_id": "ca-app-pub-4345728927696445/4231740736",
+  "inter_splash_id": "ca-app-pub-4345728927696445/7257187882",
+  "banner_show": true,
+  "native_show": false,
+  "inter_splash_show": true,
+  "time_loading": 10
+}
